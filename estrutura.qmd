@@ -17,6 +17,24 @@ As listas das seções a seguir são a ideia das divisões que vou usar, cujos t
 
 ### Parte 3: ***INFERÊNCIA*** ou "como escolher no que acreditar em face a evidências empíricas" {#sec-inferencia}
 
+1. Inferência
+  1. O que é inferência: dedução *versus* indução
+  1. O que seria então uma inferência *estatística*?
+    2. O que é *Estatística*, a área de conhecimento?
+      1. O que é esse troço que chamamos hoje de *Estatística*?
+      2. Origens históricas da Estatística e sua evolução ao longo do tempo
+    1. Porquê entender inferência estatística?
+  1. Um panorama das algumas abordagens atuais de como fazer inferências estatísticas
+    1. Inferência classica
+    2. Inferência bayesiana
+    3. Existe inferência fora da Estatística?
+      1. Estatística descritiva: inferência sem estatística (por mais estranho que pareça)
+      1. Redes neurais
+      2. Algoritmos vindos da Computação, da Biologia e outras áreas de conhecimento que ainda não tenham sido formalizadas pela Estatística
+  2. Teoria da decisão *versus* teoria de jogos: o divisor de águas entre a inferência clássica e inferência bayesiana
+2. Inferência clássica
+3. Inferência bayesiana
+
 ### Parte 4: ***MÉTODOS*** ou "como fazer as paradas" {#sec-metodos}
 
 ### Apêndices {#sec-apendices}
