@@ -73,4 +73,26 @@ Isto tudo é candidato a conteúdo da @sec-leia-me.
 
 #### explicações
 
+- aprendizado é tentativa e erro
+  - formas de aprendizado
+  - os 4 tipos de pessoas
+    - quem nasceu sabendo
+    - quem não nasceu sabendo, mas aprende com os erros dos outros
+    - quem não nasceu sabendo, não aprende com os erros dos outros e só aprende com os próprios erros
+    - quem não nasceu sabendo, não aprende com os erros dos outros e não aprende nem com os próprios erros -- não seja essa pessoa!
+  - cada exercício é uma tentativa
+    - cada exercício é uma oportunidade de testar se você entendeu mesmo ou não como funciona ou como se faz
+    - se você , então se você pula etapas por ansiedade e vai ver a resposta antes de tentar uma quantidade honesta de esforço
+
 #### como implementar
+
+- graduar e ordenar os exercícios por nível de dificuldade
+- explicitar o papel dos exercícios "com números" como escada para habilitar a resolver os exercício com álgebra
+- criar poucos exercícios de fixação após cada seção e uma lista
+- criar grupos de diversas variantes de cada exercício
+  - também em ordem crescente de dificuldade
+  - explicitar no início de cada seção de exercícios quais são os objetivos, no que prestar atenção e quais dificuldade estão envolvidas possivelmente seriam esperadas
+  - mais oportunidades para tentativa e erro
+  - conseguiu fazer sem engasgar? então tá bom; parte pra próxima
+- explicar o objetivo de cada
+- colocar as resoluções dos exercícios no final de cada capítulo, separando com uma página em branco com "Alerta de Spoilers! Você tem certeza que quer olhar as respostas?  Se você não tentou resolver antes de resolver, você é quem está queimando cartucho e desperdiçando uma 
