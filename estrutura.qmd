@@ -54,7 +54,6 @@ As listas das seções a seguir são a ideia das divisões que vou usar, cujos t
 1. Teoria da Decisão
 2. Teoria de Jogos
 
-
 ## Não posso esquecer {#sec-nao-posso-esquecer}
 
 ### antes de começar a escrever *mermo* o livro em si
@@ -75,7 +74,7 @@ As listas das seções a seguir são a ideia das divisões que vou usar, cujos t
     - para fazer referências em outros arquivos .qmd
     - para aproveitar arquivos dentro dos diretórios  `*_cache/` entre o .qmd central e os .qmd intermediários
 
-### Razão *versus* emoção? Nope: tudo é cognição 
+### razão *versus* emoção? nope: tudo é cognição 
 
 Isto tudo é candidato a conteúdo da @sec-leia-me.
 
