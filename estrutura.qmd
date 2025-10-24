@@ -50,6 +50,11 @@ As listas das seções a seguir são a ideia das divisões que vou usar, cujos t
 
 ### Apêndices {#sec-apendices}
 
+1. Jogos versus Decisão
+1. Teoria da Decisão
+2. Teoria de Jogos
+
+
 ## Não posso esquecer {#sec-nao-posso-esquecer}
 
 ### Razão *versus* emoção? Nope: tudo é cognição 
