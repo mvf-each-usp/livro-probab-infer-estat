@@ -57,6 +57,24 @@ As listas das seções a seguir são a ideia das divisões que vou usar, cujos t
 
 ## Não posso esquecer {#sec-nao-posso-esquecer}
 
+### antes de começar a escrever *mermo* o livro em si
+
+- estudar como começar a escrever um livro com Quarto em <https://quarto.org/docs/books/>
+- referências bibiográficas
+  - escolher qual método de gerenciamento de bibliografias usar
+  - ok, vou criar pelo menos um arquivo .bib
+  - usar zotero? vale o trampo?
+- como organizar o código fonte do projeto?
+  - escrever em um único .qmd monolítico gigantesco?
+    - gerenciar referências internas seria mais fácil, mas editar seria um inferno
+  - separar as partes do livro em arquivos .qmd independentes mais um .qmd central do livro? separar os capítulos em arquivos .qmd independentes mais um .qmd para cada parte mais um .qmd central do livro?
+    - gerenciar referências internas seria mais difícil, mas editar seria bem mais simples
+  - investigar se é possível e como fazer em caso positivo:
+    - para renderizar só o pedaço que interessa
+    - para rolar um `#include <>` entre arquivos .qmd
+    - para fazer referências em outros arquivos .qmd
+    - para aproveitar arquivos dentro dos diretórios  `*_cache/` entre o .qmd central e os .qmd intermediários
+
 ### Razão *versus* emoção? Nope: tudo é cognição 
 
 Isto tudo é candidato a conteúdo da @sec-leia-me.
