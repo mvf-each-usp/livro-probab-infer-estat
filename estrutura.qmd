@@ -9,6 +9,8 @@ Ideia de estrutura para o livro *Probabilidade, Inferência e Estatística na ba
 
 ## Conteúdo que intento desenvolver
 
+As listas das seções a seguir são a ideia das divisões que vou usar, cujos tópicos de nível 1 serão os capítulos, de nível 2 serão seções e assim por diante. As próprias seções serão as partes (ou volumes?) do livro
+
 ### Parte 1: ***LEIA-ME*** ou então o livro não fará sentido {#sec-leia-me}
 
 ### Parte 2: ***PROBABILIDADE*** ou "como quantificar espectativas de forma matemática com coerência e consisitência" {#sec-probabilidade}
