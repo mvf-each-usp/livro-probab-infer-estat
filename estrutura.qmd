@@ -37,6 +37,17 @@ As listas das seções a seguir são a ideia das divisões que vou usar, cujos t
 
 ### Parte 4: ***MÉTODOS*** ou "como fazer as paradas" {#sec-metodos}
 
+1. A matemática por trás dos métodos
+  1. Clássicos
+  2. Bayesianos
+2. A computação por trás dos métodos
+  1. Clássicos
+  2. Bayesianos
+3. Mão na massa
+  1. FOSS: Free Open Source Software
+  1. R
+  2. JASP
+
 ### Apêndices {#sec-apendices}
 
 ## Não posso esquecer {#sec-nao-posso-esquecer}
