@@ -1,0 +1,30 @@
+---
+title: "Proposta do Livro"
+author: Eu
+lang: pt-br
+format: html
+---
+
+Ideia de estrutura para o livro *Probabilidade, Inferência e Estatística na base da Conversa, do Desenho e da Matemática -- um livro básico* (título provisório)
+
+## Conteúdo que intento desenvolver
+
+### Parte 1: ***LEIA-ME*** ou então o livro não fará sentido {#sec-leia-me}
+
+### Parte 2: ***PROBABILIDADE*** ou "como quantificar espectativas de forma matemática com coerência e consisitência" {#sec-probabilidade}
+
+### Parte 3: ***INFERÊNCIA*** ou "como escolher no que acreditar em face a evidências empíricas" {#sec-inferencia}
+
+### Parte 4: ***MÉTODOS*** ou "como fazer as paradas" {#sec-metodos}
+
+### Apêndices {#sec-apendices}
+
+## Não posso esquecer {#sec-nao-posso-esquecer}
+
+### Razão *versus* emoção? Nope: tudo é cognição 
+
+### exercícios
+
+#### explicações
+
+#### como implementar
