@@ -58,6 +58,16 @@ As listas das seções a seguir são a ideia das divisões que vou usar, cujos t
 
 ## Não posso esquecer {#sec-nao-posso-esquecer}
 
+### incluir em algum lugar na @sec-leia-me
+
+- relação entre probabilidade, inferência e métodos
+- "isso serve para quê?"
+  - duas faces dessa pergunta: interesse legítimo *versus* mecanismo de triagem
+  - interesse legítimo *versus* mecanismo de triagem
+- "explica isso com palavras!"
+  - matemática como linguagem à parte da linguagem humana (é esse o termo?)
+
+
 ### antes de começar a escrever *mermo* o livro em si
 
 - estudar como começar a escrever um livro com Quarto em <https://quarto.org/docs/books/>
@@ -102,6 +112,10 @@ Isto tudo é candidato a conteúdo da @sec-leia-me.
   - cada exercício é uma tentativa
     - cada exercício é uma oportunidade de testar se você entendeu mesmo ou não como funciona ou como se faz
     - se você , então se você pula etapas por ansiedade e vai ver a resposta antes de tentar uma quantidade honesta de esforço
+- o que é uma questão?
+  - uma introdução resumidaça de avaliação educacional sobre o que é uma questão no contexto de estatística e de 
+    - questões abertas e questões de múltipla escolha
+    - enunciado, comando, gabarito e distratores
 
 #### como implementar
 
