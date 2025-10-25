@@ -127,6 +127,5 @@ Isto tudo é candidato a conteúdo da @sec-leia-me.
   - explicitar no início de cada seção de exercícios quais são os objetivos, no que prestar atenção e quais dificuldade estão envolvidas possivelmente seriam esperadas
   - mais oportunidades para tentativa e erro
   - conseguiu fazer sem engasgar? então tá bom; parte pra próxima
-- explicar o objetivo de cada
 - colocar as resoluções dos exercícios no final de cada capítulo, separando com uma página em branco com um "alerta de spoilers"
   - escrever algum texto padrão do tipo: "Alerta de Spoilers! Você tem certeza que quer olhar as respostas?  Se você não tentou resolver antes de ler as respostas, você é quem está queimando cartucho e desperdiçando uma oportunidade de testar se você aprendeu mesmo ou não"
